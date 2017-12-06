@@ -1,0 +1,73 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "number",
+        "value": "84"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s98d7e8356bc4e8f8cb653cad733d1a6",
+    "_text_": "music-strangers-fun",
+    "_top_": {
+        "type": "number",
+        "value": "265"
+    },
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "49.96%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "10.83%"
+    },
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "Label0c369719a15ce4e",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "g630f61489384aac8b9046a0ec8d6a99",
+    "name": "kony.ui.Label",
+    "parent": "Form3",
+    "pf": "Form3",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

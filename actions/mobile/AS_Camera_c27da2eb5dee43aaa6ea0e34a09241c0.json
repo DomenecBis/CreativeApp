@@ -1,0 +1,18 @@
+{
+    "AS_Camera_c27da2eb5dee43aaa6ea0e34a09241c0": {
+        "id": "AS_Camera_c27da2eb5dee43aaa6ea0e34a09241c0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "Form1",
+            "type": "forms",
+            "platform": null,
+            "KUID": "aa8511b4c2834895821b478805a701fd"
+        },
+        "language": "js",
+        "actions": []
+    }
+}
